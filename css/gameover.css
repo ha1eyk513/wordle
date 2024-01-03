@@ -1,0 +1,14 @@
+.gameoverDisplay {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 35vh;
+  left: 40vw;
+  color: white;
+  width: 200px;
+  height: 100px;
+  background-color: greenyellow;
+  font-size: 25px;
+  font-weight: bold;
+}
